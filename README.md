@@ -1,2 +1,3 @@
 # Stat-Metrics-Implementation
-Stat Metrics Implementation from Scratch
+
+Machine Learning Related Statistics Metrics Implemented in Python From Scratch
